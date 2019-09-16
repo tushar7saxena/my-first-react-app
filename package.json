@@ -2,7 +2,7 @@
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://tushar7saxena.github.io/my-first-react-app",
+  "homepage": "https://tushar7saxena.github.io/my-first-react-app/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
