@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-first-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/my-first-app/static/js/main.bed4f492.chunk.js",
+    "main.js.map": "/my-first-app/static/js/main.bed4f492.chunk.js.map",
+    "runtime~main.js": "/my-first-app/static/js/runtime~main.aaf811d1.js",
+    "runtime~main.js.map": "/my-first-app/static/js/runtime~main.aaf811d1.js.map",
+    "static/js/2.e435e23f.chunk.js": "/my-first-app/static/js/2.e435e23f.chunk.js",
+    "static/js/2.e435e23f.chunk.js.map": "/my-first-app/static/js/2.e435e23f.chunk.js.map",
+    "index.html": "/my-first-app/index.html",
+    "precache-manifest.2caae3e6a937ba818264aaf835d3c0e6.js": "/my-first-app/precache-manifest.2caae3e6a937ba818264aaf835d3c0e6.js",
+    "service-worker.js": "/my-first-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/my-first-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/my-first-app/static/media/logo.5d5d9eef.svg"
+  }
+}
